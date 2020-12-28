@@ -9,10 +9,6 @@
     "dev": "webpack-dev-server --config webpackset/webpack.config.dev.js --open",
     "build": "webpack --config webpackset/webpack.config.prod.js --colors --display-error-details --progress"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://gitee.com/676015863/webpack4.git"
-  },
   "keywords": [
     "webpack4",
     "less"
